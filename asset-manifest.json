@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Chaitus-portfolio/static/css/main.85afebb6.chunk.css",
+    "main.js": "/Chaitus-portfolio/static/js/main.58b3a049.chunk.js",
+    "main.js.map": "/Chaitus-portfolio/static/js/main.58b3a049.chunk.js.map",
+    "runtime-main.js": "/Chaitus-portfolio/static/js/runtime-main.bb01af61.js",
+    "runtime-main.js.map": "/Chaitus-portfolio/static/js/runtime-main.bb01af61.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Chaitus-portfolio/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.1cb392d7.chunk.js": "/Chaitus-portfolio/static/js/2.1cb392d7.chunk.js",
+    "static/js/2.1cb392d7.chunk.js.map": "/Chaitus-portfolio/static/js/2.1cb392d7.chunk.js.map",
+    "index.html": "/Chaitus-portfolio/index.html",
+    "precache-manifest.042b468d0903bb5a3a88bdd180443c8c.js": "/Chaitus-portfolio/precache-manifest.042b468d0903bb5a3a88bdd180443c8c.js",
+    "service-worker.js": "/Chaitus-portfolio/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Chaitus-portfolio/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.85afebb6.chunk.css.map": "/Chaitus-portfolio/static/css/main.85afebb6.chunk.css.map",
+    "static/js/2.1cb392d7.chunk.js.LICENSE.txt": "/Chaitus-portfolio/static/js/2.1cb392d7.chunk.js.LICENSE.txt",
+    "static/media/Aeroplane.jpg": "/Chaitus-portfolio/static/media/Aeroplane.54f2902a.jpg",
+    "static/media/EducAR.jpg": "/Chaitus-portfolio/static/media/EducAR.a5196796.jpg",
+    "static/media/blog.jpg": "/Chaitus-portfolio/static/media/blog.ef635b3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb01af61.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.1cb392d7.chunk.js",
+    "static/css/main.85afebb6.chunk.css",
+    "static/js/main.58b3a049.chunk.js"
+  ]
+}
